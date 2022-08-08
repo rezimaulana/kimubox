@@ -1,0 +1,115 @@
+- PRODUCTION
+
+<div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="assets/img/products/3.jpg" data-toggle="modal" href="#p3" class="img-fluid" alt="">
+              </figure>
+              <div class="portfolio-info">
+                <h4><a>Corrugated Carton Box</a></h4>
+                <p>Products</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="assets/img/products/4.jpg" data-toggle="modal" href="#p4" class="img-fluid" alt="">
+              </figure>
+              <div class="portfolio-info">
+                <h4><a>Corrugated Carton Box</a></h4>
+                <p>Products</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="assets/img/products/5.jpg" data-toggle="modal" href="#p5" class="img-fluid" alt="">
+              </figure>
+              <div class="portfolio-info">
+                <h4><a>Corrugated Carton Box</a></h4>
+                <p>Products</p>
+              </div>
+            </div>
+          </div>
+
+
+
+- DPRODUCTION
+ <!-- Product C -->
+  <div class="portfolio-modal modal fade" id="p3" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 mx-auto">
+              <div class="modal-body">
+                  <!-- details -->
+                  <div class="preview-pic tab-content">
+                  <div class="tab-pane active" id="pic-3">
+                    <img class="pop" src="assets/img/products/3.jpg" />
+                  </div>
+                  </div>
+                  <p></p>
+                  <p>Product Corrugated Carton Box</p>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><!-- Product C-->
+
+    <!-- Product D -->
+    <div class="portfolio-modal modal fade" id="p4" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 mx-auto">
+              <div class="modal-body">
+                  <!-- details -->
+                  <div class="preview-pic tab-content">
+                  <div class="tab-pane active" id="pic-4">
+                    <img class="pop" src="assets/img/products/4.jpg" />
+                  </div>
+                  </div>
+                  <p></p>
+                  <p>Product Corrugated Carton Box</p>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><!-- Product D-->
+
+    <!-- Product E -->
+    <div class="portfolio-modal modal fade" id="p5" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 mx-auto">
+              <div class="modal-body">
+                  <!-- details -->
+                  <div class="preview-pic tab-content">
+                  <div class="tab-pane active" id="pic-5">
+                    <img class="pop" src="assets/img/products/5.jpg" />
+                  </div>
+                  </div>
+                  <p></p>
+                  <p>Product Corrugated Carton Box</p>
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><!-- Product E-->
